@@ -1,5 +1,7 @@
-## Hi guys, this is my new mini-project, Rocket Animation.
+## This is my new mini-project, Rocket under the series of [Experimantal](https://github.com/P4RT33K/Experimental)
 
-### made using basic HTML, CSS & JS.
+### I made this made using HTML5, CSS3 & Vanilla JS.
 
-[Link](https://p4rt33k.github.io/Rocket/home)
+It is basic animation using rocket icon from Font Awesome.
+
+Here's the [link](https://p4rt33k.github.io/Rocket/home) to it!
